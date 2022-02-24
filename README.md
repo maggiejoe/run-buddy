@@ -12,4 +12,4 @@ https://maggiejoe.github.io/run-buddy/
 ## Contribution
 Made with <3 by Maggie J.
 
-### &copy Run Buddy, Inc
+### &copy; Run Buddy, Inc
