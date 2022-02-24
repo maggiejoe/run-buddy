@@ -153,11 +153,6 @@ footer a {
     font-size: 16px;
 }
 
-.intro {
-    text-align: center;
-    padding: 0 0 25px 0;
-}
-
 /* deleting & updating '.intro h2' with cleaner declaration */
 
 .intro p {
@@ -166,10 +161,10 @@ footer a {
     width: 80%;
     font-size: 20px;
     margin: 0 auto;
+    text-align: center;
 }
 
 .steps {
-    text-align: center;
     background: #fce138;
 }
 
@@ -178,10 +173,11 @@ footer a {
 .section-title {
     font-size: 55px;
     color: #024e76;
-    margin-bottom: 35px;
-    padding: 20px 100px 20px 100px;
-    display: inline-block;
     border-bottom: 3px solid;
+    padding-bottom: 20px;
+    text-align: center;
+    margin: 0 auto 25px auto;
+    width: 50px;
 }
 
 .primary-border {
@@ -219,7 +215,7 @@ footer a {
 
 /*trainer styles start*/
 .trainers {
-    text-align: center;
+    
 }
 
 .trainer {
@@ -268,7 +264,6 @@ footer a {
 
 /*reach out styles start*/
 .contact {
-    text-align: center;
     background:#024e76;
     padding-bottom: 35px;
 }
@@ -309,8 +304,6 @@ footer a {
 }
 /*reach out styles end*/
 
-/*style to Privacy Policy html start*/
-
-
-
-/*style to Privacy Poilcy html end*/
+.flex-row {
+    display: flex;
+}
