@@ -138,7 +138,7 @@ footer a {
 /*hero-form start*/
 
 .hero-form {
-    background-color: rbga(252, 225, 56, 0.8);
+    background-color: rgba(252, 225, 56, 0.8);
     padding: 20px;
     color: var(--secondary-color);
     border-style: solid;
